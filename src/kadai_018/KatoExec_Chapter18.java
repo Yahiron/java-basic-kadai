@@ -10,11 +10,11 @@ public abstract class KatoExec_Chapter18 {
 
 		KatoHanako_Chapter18 hanako = new KatoHanako_Chapter18();
 
-	taro.execIntroduce();
+		taro.execIntroduce();
 
-	ichiro.execIntroduce();
+		ichiro.execIntroduce();
 
-	hanako.execIntroduce();
-}
+		hanako.execIntroduce();
+	}
 
 }
