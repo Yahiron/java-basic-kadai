@@ -4,7 +4,11 @@ public class KatoIchiro_Chapter18 extends Kato_Chapter18 {//子クラス
 
 	public KatoIchiro_Chapter18() {
 
-		setGivenName("一郎");
+		setGivenName();
+	}
+
+	public void setGivenName() {
+		this.givenName = "一郎";
 
 	}
 
@@ -12,5 +16,4 @@ public class KatoIchiro_Chapter18 extends Kato_Chapter18 {//子クラス
 		System.out.println("好きな食べ物はリンゴです");
 
 	}
-
 }
