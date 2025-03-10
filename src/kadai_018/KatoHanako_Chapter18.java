@@ -4,7 +4,6 @@ public class KatoHanako_Chapter18 extends Kato_Chapter18 {//子クラス
 
 	public KatoHanako_Chapter18() {
 
-		setGivenName();
 	}
 
 	public void setGivenName() {
@@ -14,6 +13,6 @@ public class KatoHanako_Chapter18 extends Kato_Chapter18 {//子クラス
 
 	public void eachIntroduce() {
 		System.out.println("趣味は読書です");
-		
+
 	}
 }

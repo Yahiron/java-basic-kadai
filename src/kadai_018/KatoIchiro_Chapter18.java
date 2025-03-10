@@ -4,7 +4,6 @@ public class KatoIchiro_Chapter18 extends Kato_Chapter18 {//子クラス
 
 	public KatoIchiro_Chapter18() {
 
-		setGivenName();
 	}
 
 	public void setGivenName() {
